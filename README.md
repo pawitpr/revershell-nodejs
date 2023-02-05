@@ -2,6 +2,6 @@
 ```js
  Is Require only dotenv and nothing```
  ## Demo
- ```js
-  https://node-js-7kwq.onrender.com/
+ ```bash
+  https://node-js-7kwq.onrender.com/cmd
   ```
